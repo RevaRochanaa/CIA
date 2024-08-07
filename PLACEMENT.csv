@@ -1,0 +1,216 @@
+sl_no,gender,degree_t,workex,specialisation,status
+1,M,Sci&Tech,No,Mkt&HR,Placed
+2,M,Sci&Tech,Yes,Mkt&Fin,Placed
+3,M,Comm&Mgmt,No,Mkt&Fin,Placed
+4,M,Sci&Tech,No,Mkt&HR,Not Placed
+5,M,Comm&Mgmt,No,Mkt&Fin,Placed
+6,M,Sci&Tech,Yes,Mkt&Fin,Not Placed
+7,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+8,M,Sci&Tech,Yes,Mkt&Fin,Placed
+9,M,Comm&Mgmt,No,Mkt&Fin,Placed
+10,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+11,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+12,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+13,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+14,F,Comm&Mgmt,No,Mkt&Fin,Placed
+15,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+16,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+17,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+18,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+19,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+20,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+21,M,Comm&Mgmt,No,Mkt&HR,Placed
+22,F,Comm&Mgmt,No,Mkt&Fin,Placed
+23,F,Sci&Tech,No,Mkt&HR,Placed
+24,F,Sci&Tech,Yes,Mkt&Fin,Placed
+25,M,Sci&Tech,No,Mkt&Fin,Placed
+26,F,Comm&Mgmt,Yes,Mkt&Fin,Not Placed
+27,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+28,M,Comm&Mgmt,No,Mkt&HR,Placed
+29,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+30,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+31,F,Comm&Mgmt,No,Mkt&HR,Placed
+32,F,Sci&Tech,No,Mkt&HR,Not Placed
+33,F,Comm&Mgmt,No,Mkt&HR,Placed
+34,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+35,M,Others,No,Mkt&HR,Not Placed
+36,F,Comm&Mgmt,No,Mkt&HR,Placed
+37,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+38,F,Sci&Tech,No,Mkt&HR,Placed
+39,F,Comm&Mgmt,No,Mkt&HR,Placed
+40,M,Sci&Tech,No,Mkt&Fin,Placed
+41,F,Comm&Mgmt,No,Mkt&Fin,Placed
+42,F,Comm&Mgmt,Yes,Mkt&HR,Not Placed
+43,M,Others,No,Mkt&Fin,Not Placed
+44,M,Comm&Mgmt,No,Mkt&HR,Placed
+45,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+46,F,Sci&Tech,No,Mkt&HR,Not Placed
+47,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+48,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+49,M,Comm&Mgmt,No,Mkt&Fin,Placed
+50,F,Others,No,Mkt&HR,Not Placed
+51,F,Comm&Mgmt,No,Mkt&HR,Placed
+52,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+53,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+54,M,Sci&Tech,No,Mkt&HR,Placed
+55,F,Comm&Mgmt,No,Mkt&HR,Placed
+56,M,Comm&Mgmt,No,Mkt&HR,Placed
+57,M,Comm&Mgmt,No,Mkt&Fin,Placed
+58,M,Comm&Mgmt,No,Mkt&Fin,Placed
+59,M,Comm&Mgmt,No,Mkt&Fin,Placed
+60,M,Sci&Tech,No,Mkt&Fin,Placed
+61,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+62,M,Comm&Mgmt,No,Mkt&Fin,Placed
+63,F,Sci&Tech,No,Mkt&Fin,Placed
+64,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+65,M,Comm&Mgmt,No,Mkt&Fin,Placed
+66,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+67,M,Comm&Mgmt,No,Mkt&HR,Placed
+68,M,Comm&Mgmt,No,Mkt&Fin,Placed
+69,F,Sci&Tech,No,Mkt&HR,Not Placed
+70,M,Sci&Tech,Yes,Mkt&Fin,Placed
+71,M,Sci&Tech,No,Mkt&Fin,Placed
+72,M,Comm&Mgmt,No,Mkt&Fin,Placed
+73,M,Comm&Mgmt,No,Mkt&Fin,Placed
+74,M,Comm&Mgmt,No,Mkt&Fin,Placed
+75,M,Comm&Mgmt,No,Mkt&Fin,Placed
+76,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+77,F,Comm&Mgmt,No,Mkt&Fin,Placed
+78,M,Sci&Tech,Yes,Mkt&Fin,Placed
+79,M,Sci&Tech,No,Mkt&Fin,Placed
+80,F,Sci&Tech,No,Mkt&HR,Not Placed
+81,F,Comm&Mgmt,Yes,Mkt&HR,Placed
+82,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+83,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+84,M,Sci&Tech,Yes,Mkt&Fin,Placed
+85,M,Sci&Tech,Yes,Mkt&Fin,Placed
+86,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+87,M,Comm&Mgmt,No,Mkt&Fin,Placed
+88,M,Others,No,Mkt&HR,Not Placed
+89,F,Comm&Mgmt,No,Mkt&HR,Placed
+90,F,Sci&Tech,Yes,Mkt&HR,Placed
+91,F,Comm&Mgmt,No,Mkt&Fin,Placed
+92,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+93,F,Comm&Mgmt,No,Mkt&Fin,Placed
+94,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+95,M,Comm&Mgmt,No,Mkt&Fin,Placed
+96,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+97,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+98,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+99,F,Comm&Mgmt,No,Mkt&Fin,Placed
+100,M,Sci&Tech,No,Mkt&Fin,Not Placed
+101,F,Comm&Mgmt,Yes,Mkt&HR,Not Placed
+102,M,Comm&Mgmt,No,Mkt&HR,Placed
+103,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+104,M,Sci&Tech,Yes,Mkt&HR,Placed
+105,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+106,M,Sci&Tech,No,Mkt&HR,Not Placed
+107,M,Sci&Tech,No,Mkt&Fin,Not Placed
+108,M,Comm&Mgmt,No,Mkt&HR,Placed
+109,M,Comm&Mgmt,No,Mkt&Fin,Placed
+110,M,Sci&Tech,Yes,Mkt&HR,Not Placed
+111,F,Sci&Tech,No,Mkt&HR,Placed
+112,M,Sci&Tech,No,Mkt&HR,Not Placed
+113,M,Comm&Mgmt,No,Mkt&HR,Placed
+114,F,Comm&Mgmt,No,Mkt&Fin,Placed
+115,M,Comm&Mgmt,No,Mkt&HR,Placed
+116,F,Comm&Mgmt,No,Mkt&Fin,Placed
+117,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+118,M,Sci&Tech,No,Mkt&Fin,Placed
+119,M,Sci&Tech,Yes,Mkt&HR,Placed
+120,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+121,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+122,F,Sci&Tech,Yes,Mkt&HR,Placed
+123,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+124,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+125,M,Others,Yes,Mkt&HR,Placed
+126,F,Comm&Mgmt,No,Mkt&Fin,Placed
+127,F,Sci&Tech,Yes,Mkt&Fin,Placed
+128,F,Comm&Mgmt,No,Mkt&HR,Placed
+129,M,Sci&Tech,Yes,Mkt&HR,Placed
+130,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+131,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+132,F,Others,Yes,Mkt&Fin,Placed
+133,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+134,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+135,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+136,F,Comm&Mgmt,No,Mkt&HR,Placed
+137,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+138,M,Comm&Mgmt,No,Mkt&HR,Placed
+139,F,Sci&Tech,Yes,Mkt&Fin,Placed
+140,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+141,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+142,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+143,M,Sci&Tech,Yes,Mkt&Fin,Placed
+144,M,Comm&Mgmt,No,Mkt&Fin,Placed
+145,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+146,M,Sci&Tech,No,Mkt&HR,Placed
+147,M,Comm&Mgmt,No,Mkt&HR,Placed
+148,M,Comm&Mgmt,No,Mkt&Fin,Placed
+149,F,Others,No,Mkt&Fin,Placed
+150,M,Comm&Mgmt,Yes,Mkt&HR,Not Placed
+151,M,Sci&Tech,Yes,Mkt&Fin,Placed
+152,M,Comm&Mgmt,No,Mkt&Fin,Placed
+153,F,Sci&Tech,No,Mkt&Fin,Placed
+154,M,Sci&Tech,Yes,Mkt&Fin,Placed
+155,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+156,M,Comm&Mgmt,Yes,Mkt&HR,Not Placed
+157,M,Sci&Tech,Yes,Mkt&HR,Placed
+158,M,Comm&Mgmt,No,Mkt&Fin,Placed
+159,M,Sci&Tech,No,Mkt&Fin,Not Placed
+160,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+161,M,Sci&Tech,Yes,Mkt&HR,Placed
+162,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+163,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+164,M,Sci&Tech,No,Mkt&Fin,Placed
+165,F,Comm&Mgmt,No,Mkt&Fin,Placed
+166,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+167,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+168,M,Sci&Tech,Yes,Mkt&Fin,Not Placed
+169,F,Comm&Mgmt,Yes,Mkt&HR,Not Placed
+170,M,Sci&Tech,No,Mkt&HR,Not Placed
+171,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+172,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+173,M,Comm&Mgmt,No,Mkt&HR,Placed
+174,F,Sci&Tech,No,Mkt&HR,Not Placed
+175,M,Sci&Tech,Yes,Mkt&Fin,Placed
+176,M,Sci&Tech,No,Mkt&HR,Not Placed
+177,F,Comm&Mgmt,No,Mkt&HR,Placed
+178,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+179,M,Sci&Tech,No,Mkt&HR,Placed
+180,F,Sci&Tech,No,Mkt&HR,Not Placed
+181,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+182,M,Sci&Tech,No,Mkt&HR,Not Placed
+183,M,Others,Yes,Mkt&Fin,Not Placed
+184,M,Comm&Mgmt,No,Mkt&HR,Placed
+185,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+186,F,Others,No,Mkt&HR,Placed
+187,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+188,M,Sci&Tech,Yes,Mkt&Fin,Placed
+189,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+190,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+191,F,Comm&Mgmt,No,Mkt&Fin,Not Placed
+192,M,Comm&Mgmt,No,Mkt&Fin,Placed
+193,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+194,F,Others,Yes,Mkt&HR,Placed
+195,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+196,M,Comm&Mgmt,Yes,Mkt&HR,Placed
+197,M,Sci&Tech,Yes,Mkt&Fin,Placed
+198,F,Sci&Tech,No,Mkt&HR,Placed
+199,F,Others,No,Mkt&HR,Not Placed
+200,M,Comm&Mgmt,No,Mkt&HR,Placed
+201,M,Comm&Mgmt,No,Mkt&Fin,Placed
+202,M,Comm&Mgmt,No,Mkt&HR,Not Placed
+203,M,Sci&Tech,No,Mkt&HR,Placed
+204,M,Comm&Mgmt,No,Mkt&HR,Placed
+205,F,Comm&Mgmt,Yes,Mkt&Fin,Placed
+206,M,Comm&Mgmt,No,Mkt&Fin,Placed
+207,M,Comm&Mgmt,No,Mkt&Fin,Not Placed
+208,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+209,F,Comm&Mgmt,No,Mkt&HR,Not Placed
+210,M,Comm&Mgmt,No,Mkt&Fin,Placed
+211,M,Comm&Mgmt,No,Mkt&Fin,Placed
+212,M,Sci&Tech,No,Mkt&Fin,Placed
+213,M,Comm&Mgmt,Yes,Mkt&Fin,Placed
+214,F,Comm&Mgmt,No,Mkt&HR,Placed
+215,M,Comm&Mgmt,No,Mkt&HR,Not Placed
